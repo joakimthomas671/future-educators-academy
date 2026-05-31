@@ -52,3 +52,33 @@ nav{
     padding:25px;
     border-radius:10px;
 }
+nav{
+    background:#1E3A5F;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 40px;
+}
+
+.logo{
+    color:white;
+    font-weight:bold;
+    font-size:22px;
+}
+
+nav ul{
+    list-style:none;
+    display:flex;
+    gap:20px;
+    margin:0;
+    padding:0;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+}
+
+nav a:hover{
+    color:#C1121F;
+}
