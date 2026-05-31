@@ -1,11 +1,54 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #F5F5F5;
-    color: #1E3A5F;
-    text-align: center;
-    padding: 50px;
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#F5F5F5;
 }
 
-h1 {
-    color: #C1121F;
+nav{
+    background:#1E3A5F;
+    color:white;
+    padding:20px;
+}
+
+.hero{
+    text-align:center;
+    padding:100px 20px;
+    background:white;
+}
+
+.hero h1{
+    font-size:48px;
+    color:#1E3A5F;
+}
+
+.hero p{
+    font-size:22px;
+}
+
+.button{
+    display:inline-block;
+    background:#C1121F;
+    color:white;
+    text-decoration:none;
+    padding:12px 25px;
+    border-radius:8px;
+    margin-top:20px;
+}
+
+.about{
+    padding:60px 20px;
+    text-align:center;
+}
+
+.courses{
+    padding:60px 20px;
+    text-align:center;
+}
+
+.course-card{
+    background:white;
+    max-width:500px;
+    margin:auto;
+    padding:25px;
+    border-radius:10px;
 }
