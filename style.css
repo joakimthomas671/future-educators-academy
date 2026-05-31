@@ -82,3 +82,10 @@ nav a{
 nav a:hover{
     color:#C1121F;
 }
+footer{
+    background:#1E3A5F;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:50px;
+}
