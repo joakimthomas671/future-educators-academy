@@ -118,3 +118,18 @@ footer{
     max-width:700px;
     margin:auto;
 }
+.button{
+    display:inline-block;
+    margin:15px 10px;
+    padding:14px 30px;
+    border-radius:8px;
+    text-decoration:none;
+    background:#C1121F;
+    color:white;
+    font-weight:bold;
+}
+
+.secondary-button{
+    background:white;
+    color:#1E3A5F;
+}
