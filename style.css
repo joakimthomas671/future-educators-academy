@@ -97,3 +97,24 @@ footer{
 .logo img{
     height:60px;
 }
+.hero{
+    background: linear-gradient(
+        rgba(30,58,95,.85),
+        rgba(30,58,95,.85)
+    );
+    
+    color:white;
+    text-align:center;
+    padding:120px 20px;
+}
+
+.hero h1{
+    font-size:56px;
+    margin-bottom:20px;
+}
+
+.hero p{
+    font-size:22px;
+    max-width:700px;
+    margin:auto;
+}
